@@ -36,6 +36,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ],
-    "homepage": "https://gitrajathub.github.io/calculator_p1"
+    "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  },
+    "homepage": "https://gitrajathub.github.io/calculator_p1/"
   }
 }
